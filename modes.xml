@@ -41,9 +41,7 @@
       <program name="lt-proc $1">
         <file name="bho-hin.autogen.bin"/>
       </program>
-      <program name="lt-proc -p">
-        <file name="bho-hin.autopgen.bin"/>
-      </program>
+   
     </pipeline>
   </mode>
 
@@ -60,7 +58,7 @@
       <program name="cg-proc -w">
         <file name="hin-bho.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -u 2 -g">
         <file name="hin-bho.prob"/>
       </program>
 
@@ -88,9 +86,7 @@
       <program name="lt-proc $1">
         <file name="hin-bho.autogen.bin"/>
       </program>
-      <program name="lt-proc -p">
-        <file name="hin-bho.autopgen.bin"/>
-      </program>
+ 
     </pipeline>
   </mode>
 </modes>
