@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <!-- bho → hin -->
+
+  <mode name="bho-hin" install="yes" gendebug="yes">
+    <pipeline>
+
+      <program name="lt-proc -w">
+        <file name="bho-hin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="bho-hin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="bho-hin.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="bho-hin.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="bho-hin.autolex.bin"/>
+      </program>
+
+      <program name="apertium-transfer -b">
+        <file name="apertium-bho-hin.bho-hin.t1x"/>
+        <file name="bho-hin.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-bho-hin.bho-hin.t2x"/>
+        <file name="bho-hin.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-bho-hin.bho-hin.t3x"/>
+        <file name="bho-hin.t3x.bin"/>
+      </program>
+
+      <program name="lt-proc $1">
+        <file name="bho-hin.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="bho-hin.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <!-- hin → bho -->
+
+  <mode name="hin-bho" install="yes" gendebug="yes">
+    <pipeline>
+
+      <program name="lt-proc -w">
+        <file name="hin-bho.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="hin-bho.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-bho.prob"/>
+      </program>
+
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="hin-bho.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="hin-bho.autolex.bin"/>
+      </program>
+
+      <program name="apertium-transfer -b">
+        <file name="apertium-bho-hin.hin-bho.t1x"/>
+        <file name="hin-bho.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-bho-hin.hin-bho.t2x"/>
+        <file name="hin-bho.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-bho-hin.hin-bho.t3x"/>
+        <file name="hin-bho.t3x.bin"/>
+      </program>
+
+      <program name="lt-proc $1">
+        <file name="hin-bho.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="hin-bho.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>
+
