@@ -70,22 +70,6 @@
       <sdef n="frm"	  c="formal"/>
       <sdef n="cnjsub"  c="Sub-ordinating conjunction"/>
   </sdefs>
-  <!-- <sdefs>
-
-     <sdef n="n"       c="Noun"/>     
-  	<sdef n="np"      c="Proper noun"/>
-  	<sdef n="ant"     c="Anthroponym"/>
-  	<sdef n="al"     c="Altres"/>
-  	<sdef n="cog"     c="Cognomen"/>	
-  	<sdef n="top"     c="Topological"/>
-  	<sdef n="subj"    c="subject"/>
-  	<sdef n="org"     c="Organisation"/>
-     <sdef n="sg"      c="Singular"/>
-     <sdef n="m"       c="Masculine"/> 
-     <sdef n="f"       c="Feminine"/>
-     <sdef n="nom"     c="Nominative"/> 
-     <sdef n="pl"      c="Plural"/>
-   </sdefs> -->
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
