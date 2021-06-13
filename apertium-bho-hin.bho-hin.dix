@@ -35,7 +35,7 @@
     <sdef n="sg"/>
     <sdef n="swrI"/>
     <sdef n="indef"     c="Indefinite" />
-    <sdef n="det" />
+    <sdef n="det" /     c = "Determiners">
 
     <sdef n="vblex"/>
     <sdef n="va"/>
@@ -174,7 +174,6 @@
       <e><p><l>भी<s n="adv"/></l><r>भी<s n="adv"/></r></p></e>
       <e><p><l>अब<s n="adv"/></l><r>अभी<s n="adv"/></r></p></e>
       <e><p><l>खुस<s n="adj"/></l><r>ख़ुश<s n="adj"/></r></p></e>
-      <e><p><l>दुन्नों<s n="det"/></l><r>दोनों<s n="det"/></r></p></e>
       <e><p><l>लकम<s n="n"/><s n="f"/></l>  <r>आदत<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>बच्चा<s n="n"/><s n="m"/></l>  <r>बच्चा<s n="n"/><s n="m"/></r></p></e>
 
@@ -280,6 +279,27 @@
       <e><p><l>सिवा<s n="post"/></l><r>सिवा<s n="post"/></r></p></e>
       <e><p><l>के<s n="post"/></l><r>के<s n="post"/></r></p></e>
       <e><p><l>का<s n="post"/></l><r>का<s n="post"/></r></p></e>
+
+      <!--DETERMINERS-->
+      <e><p><l>जेकर<s n="det"/></l><r>जिसका<s n="det"/></r></p></e>
+      <e><p><l>सभे<s n="det"/></l><r>सब<s n="det"/></r></p></e>
+      <e><p><l>ओकरा<s n="det"/></l><r>उसका<s n="det"/></r></p></e>
+      <e><p><l>अधिका<s n="det"/></l><r>अधिक<s n="det"/></r></p></e>
+      <e><p><l>दुन्नों<s n="det"/></l><r>दोनों<s n="det"/></r></p></e>
+      <e><p><l>एही<s n="det"/></l><r>यहीं<s n="det"/></r></p></e>
+      <e><p><l>कवनो<s n="det"/></l><r>कोई<s n="det"/></r></p></e>
+      <e><p><l>एह<s n="det"/></l><r>यह<s n="det"/></r></p></e>
+      <e><p><l>अइसन<s n="det"/></l><r>ऐसा<s n="det"/></r></p></e>
+      <e><p><l>जवन<s n="det"/></l><r>जो<s n="det"/></r></p></e>
+      <e><p><l>कतना<s n="det"/></l><r>कितना<s n="det"/></r></p></e>
+      <e><p><l>अइसन<s n="det"/></l><r>ऐसा<s n="det"/></r></p></e>
+      <e><p><l>कुछु<s n="det"/></l><r>कुछ<s n="det"/></r></p></e>
+      <e><p><l>आजु<s n="det"/></l><r>आज<s n="det"/></r></p></e>
+      <e><p><l>सब<s n="det"/></l><r>सब<s n="det"/></r></p></e>
+      <e><p><l>हर<s n="det"/></l><r>हर<s n="det"/></r></p></e>
+      <e><p><l>कई<s n="det"/></l><r>कई<s n="det"/></r></p></e>
+      <e><p><l>कम<s n="det"/></l><r>कम<s n="det"/></r></p></e>
+      <e><p><l>अतना<s n="det"/></l><r>इतना<s n="det"/></r></p></e>
 
    </section>
 
