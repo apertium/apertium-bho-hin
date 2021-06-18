@@ -34,8 +34,7 @@
     <sdef n="pri"/>
     <sdef n="sg"/>
     <sdef n="swrI"/>
-    <sdef n="indef"     c="Indefinite" />
-    <sdef n="det" /     c = "Determiners">
+    <sdef n="det"     c = "Determiners"/>
 
     <sdef n="vblex"/>
     <sdef n="va"/>
@@ -301,6 +300,9 @@
       <e><p><l>कम<s n="det"/></l><r>कम<s n="det"/></r></p></e>
       <e><p><l>अतना<s n="det"/></l><r>इतना<s n="det"/></r></p></e>
 
+ 
+      <e><re>[.\?;:!।॥]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+      <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
    </section>
 
 </dictionary>
