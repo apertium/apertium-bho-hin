@@ -125,7 +125,7 @@
       <e><p><l>काँच<s n="n"/><s n="m"/></l>  <r>शीशा<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>का<s n="prn"/><s n="itg"/></l>  <r>क्या<s n="prn"/><s n="itg"/></r></p></e>
 
-      <e><p><l>तोर<s n="prn"/></l>  <r>तुम<s n="prn"/></r></p></e> <!--IMP-->
+      <e><p><l>तुंह<s n="prn"/></l>  <r>तुम<s n="prn"/></r></p></e> <!--IMP-->
       <e><p><l>तोहमत<s n="n"/><s n="m"/></l>  <r>दोष<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>तौर<s n="n"/><s n="f"/></l>  <r>हालत<s n="n"/><s n="f"/></r></p></e>
 
@@ -157,8 +157,6 @@
       <e><p><l>ना<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e> 
       <e><p><l>खैका<s n="n"/><s n="m"/></l>  <r>भोजन<s n="n"/><s n="m"/></r></p></e> 
 
-      <e><p><l>ऐगो<s n="num"/></l>  <r>एक<s n="num"/></r></p></e>
-      <e><p><l>छै<s n="num"/></l>  <r>छह<s n="num"/></r></p></e>
       <e><p><l>लइका<s n="n"/><s n="m"/></l>  <r>बालक<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>साल<s n="n"/><s n="m"/></l>  <r>वर्ष<s n="n"/><s n="m"/></r></p></e>
 
@@ -300,9 +298,24 @@
       <e><p><l>कम<s n="det"/></l><r>कम<s n="det"/></r></p></e>
       <e><p><l>अतना<s n="det"/></l><r>इतना<s n="det"/></r></p></e>
 
- 
+      <!--NUMERALS-->
+      <e><p><l>चार<s n="num"/></l><r>चार<s n="num"/></r></p></e>
+      <e><p><l>दोसर<s n="num"/><s n="ord"/></l><r>दूसरा<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>ऐगो<s n="num"/></l><r>एक<s n="num"/></r></p></e>
+      <e><p><l>छै<s n="num"/></l><r>छह<s n="num"/></r></p></e>
+      <e><p><l>दू<s n="num"/></l><r>दो<s n="num"/></r></p></e>
+      <e><p><l>छठवां<s n="num"/><s n="ord"/></l><r>छठा<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>आठ<s n="num"/></l><r>आठ<s n="num"/></r></p></e>
+      <e><p><l>चार<s n="num"/></l><r>चार<s n="num"/></r></p></e>
+      <e><p><l>तिसरका<s n="num"/><s n="ord"/></l><r>तीसरा<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>दोसरका<s n="num"/><s n="ord"/></l><r>द्वितीय<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>पहलका<s n="num"/><s n="ord"/></l><r>पहला<s n="num"/><s n="ord"/></r></p></e>
+
+
       <e><re>[.\?;:!।॥]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+
+
    </section>
 
 </dictionary>
