@@ -68,6 +68,7 @@
       <sdef n="iv"     c="intransitive"/>
       <sdef n="frm"	  c="formal"/>
       <sdef n="cnjsub"  c="Sub-ordinating conjunction"/>
+      <sdef n="ord"  c="ordinal"/>
   </sdefs>
 
    <section id="main" type="standard">
@@ -306,11 +307,16 @@
       <e><p><l>दू<s n="num"/></l><r>दो<s n="num"/></r></p></e>
       <e><p><l>छठवां<s n="num"/><s n="ord"/></l><r>छठा<s n="num"/><s n="ord"/></r></p></e>
       <e><p><l>आठ<s n="num"/></l><r>आठ<s n="num"/></r></p></e>
-      <e><p><l>चार<s n="num"/></l><r>चार<s n="num"/></r></p></e>
       <e><p><l>तिसरका<s n="num"/><s n="ord"/></l><r>तीसरा<s n="num"/><s n="ord"/></r></p></e>
       <e><p><l>दोसरका<s n="num"/><s n="ord"/></l><r>द्वितीय<s n="num"/><s n="ord"/></r></p></e>
       <e><p><l>पहलका<s n="num"/><s n="ord"/></l><r>पहला<s n="num"/><s n="ord"/></r></p></e>
 
+      <!--PRONOUNS-->
+      <e><p><l>हम<s n="prn"/></l><r>हम<s n="prn"/></r></p></e>
+      <e><p><l>तुंह<s n="prn"/></l><r>तुम<s n="prn"/></r></p></e>
+      <e><p><l>का<s n="prn"/></l><r>का<s n="prn"/></r></p></e>
+      <e><p><l>सब<s n="prn"/></l><r>सब<s n="prn"/></r></p></e>
+      <e><p><l>ख़ुद<s n="prn"/></l><r>ख़ुद<s n="prn"/></r></p></e>
 
       <e><re>[.\?;:!।॥]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
