@@ -302,7 +302,6 @@
       <!--NUMERALS-->
       <e><p><l>चार<s n="num"/></l><r>चार<s n="num"/></r></p></e>
       <e><p><l>दोसर<s n="num"/><s n="ord"/></l><r>दूसरा<s n="num"/><s n="ord"/></r></p></e>
-      <e><p><l>ऐगो<s n="num"/></l><r>एक<s n="num"/></r></p></e>
       <e><p><l>छै<s n="num"/></l><r>छह<s n="num"/></r></p></e>
       <e><p><l>दू<s n="num"/></l><r>दो<s n="num"/></r></p></e>
       <e><p><l>छठवां<s n="num"/><s n="ord"/></l><r>छठा<s n="num"/><s n="ord"/></r></p></e>
@@ -310,6 +309,31 @@
       <e><p><l>तिसरका<s n="num"/><s n="ord"/></l><r>तीसरा<s n="num"/><s n="ord"/></r></p></e>
       <e><p><l>दोसरका<s n="num"/><s n="ord"/></l><r>द्वितीय<s n="num"/><s n="ord"/></r></p></e>
       <e><p><l>पहलका<s n="num"/><s n="ord"/></l><r>पहला<s n="num"/><s n="ord"/></r></p></e>
+
+      <e><p><l>0<s n="num"/></l><r>0<s n="num"/></r></p></e>
+      <e><p><l>१<s n="num"/></l><r>१<s n="num"/></r></p></e>
+      <e><p><l>२<s n="num"/></l><r>२<s n="num"/></r></p></e>
+      <e><p><l>३<s n="num"/></l><r>३<s n="num"/></r></p></e>
+      <e><p><l>४<s n="num"/></l><r>४<s n="num"/></r></p></e>
+      <e><p><l>५<s n="num"/></l><r>५<s n="num"/></r></p></e>
+      <e><p><l>६<s n="num"/></l><r>६<s n="num"/></r></p></e>
+      <e><p><l>७<s n="num"/></l><r>७<s n="num"/></r></p></e>
+      <e><p><l>८<s n="num"/></l><r>८<s n="num"/></r></p></e>
+      <e><p><l>९<s n="num"/></l><r>९<s n="num"/></r></p></e>
+
+    	<e><p><l>शून्य<s n="num"/><s n="sg"/></l><r>शून्य<s n="num"/></r></p></e>
+	   <e><p><l>सिफर<s n="num"/><s n="sg"/></l><r>सिफर<s n="num"/></r></p></e>
+      <e><p><l>ऐगो<s n="num"/><s n="sg"/></l><r>एक<s n="num"/></r></p></e>
+      <e><p><l>दू<s n="num"/><s n="sp"/></l><r>दो<s n="num"/></r></p></e>
+      <e><p><l>तीन<s n="num"/><s n="sp"/></l><r>तीन<s n="num"/></r></p></e>
+      <e><p><l>चार<s n="num"/><s n="sp"/></l><r>चार<s n="num"/></r></p></e>
+      <e><p><l>पांच<s n="num"/><s n="sp"/></l><r>पांच<s n="num"/></r></p></e>
+      <e><p><l>छै<s n="num"/><s n="sp"/></l><r>छः<s n="num"/></r></p></e>
+      <e><p><l>सात<s n="num"/><s n="sp"/></l><r>सात<s n="num"/></r></p></e>
+      <e><p><l>आठ<s n="num"/><s n="sp"/></l><r>आठ<s n="num"/></r></p></e>
+      <e><p><l>नौ<s n="num"/><s n="sp"/></l><r>नौ<s n="num"/></r></p></e>
+      <e><p><l>दस<s n="num"/><s n="sp"/></l><r>दस<s n="num"/></r></p></e>
+      
 
       <!--PRONOUNS-->
       <e><p><l>हम<s n="prn"/></l><r>हम<s n="prn"/></r></p></e>
