@@ -17,6 +17,11 @@
     <sdef n="n"/>
     <sdef n="sent"/>
     <sdef n="cm"/>
+    <sdef n="lpar"/>
+    <sdef n="rpar"/>
+    <sdef n="lquot"/>
+    <sdef n="rquot"/>
+    <sdef n="guio"/>
     <sdef n="f"/>
     <sdef n="m"/>
     <sdef n="nm"/>
@@ -50,7 +55,6 @@
 		<sdef n="mfn"/>
 		<sdef n="itg"		c="interrogative" />
 		<sdef n="vaux"		c="auxiliary verb" />
-		<sdef n="part"		c="particle" />
 		<sdef n="post"		c="postposition" />
 		<sdef n="obl"		c="" />
 		<sdef n="dem"		c="" />
@@ -342,9 +346,18 @@
       <e><p><l>सब<s n="prn"/></l><r>सब<s n="prn"/></r></p></e>
       <e><p><l>ख़ुद<s n="prn"/></l><r>ख़ुद<s n="prn"/></r></p></e>
 
+
       <e><re>[.\?;:!।॥]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
-
+      <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
+      <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
+      <e><p><l>«<s n="lquot"/></l><r>«<s n="lquot"/></r></p></e>
+      <e><p><l>»<s n="rquot"/></l><r>»<s n="rquot"/></r></p></e>
+      <e><p><l>[—\-]+<s n="guio"/></l><r>[—\-]+<s n="guio"/></r></p></e>
+      <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+      <e><re>[०१२३४५६७८९]+([.,][०१२३४५६७८९]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+      <e><re>[०१२३४५६७८९]+([.,][०१२३४५६७८९]+)?%</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
    </section>
 
