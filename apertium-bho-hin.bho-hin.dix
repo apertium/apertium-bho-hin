@@ -311,9 +311,6 @@
       <e><p><l>दू<s n="num"/></l><r>दो<s n="num"/></r></p></e>
       <e><p><l>छठवां<s n="num"/><s n="ord"/></l><r>छठा<s n="num"/><s n="ord"/></r></p></e>
       <e><p><l>आठ<s n="num"/></l><r>आठ<s n="num"/></r></p></e>
-      <e><p><l>तिसरका<s n="num"/><s n="ord"/></l><r>तीसरा<s n="num"/><s n="ord"/></r></p></e>
-      <e><p><l>दोसरका<s n="num"/><s n="ord"/></l><r>द्वितीय<s n="num"/><s n="ord"/></r></p></e>
-      <e><p><l>पहलका<s n="num"/><s n="ord"/></l><r>पहला<s n="num"/><s n="ord"/></r></p></e>
 
       <e><p><l>0<s n="num"/></l><r>0<s n="num"/></r></p></e>
       <e><p><l>१<s n="num"/></l><r>१<s n="num"/></r></p></e>
@@ -364,6 +361,35 @@
       <e><p><l>खुद<b/>ही<s n="prn"/></l><r>खुद<b/>ही<s n="prn"/></r></p></e>
       <e><p><l>खुद<b/>को<s n="prn"/></l><r>खुद<b/>को<s n="prn"/></r></p></e>
       <e><p><l>उ<b/>लोगों<b/>का<s n="prn"/></l><r>उन<b/>लोगों<b/>का<s n="prn"/></r></p></e>
+      
+      <e><p><l>जवन<s n="prn"/></l><r>जो<s n="prn"/></r></p></e>
+      <e><p><l>नाम<s n="n"/></l><r>नाम<s n="n"/></r></p></e>
+
+      <e><p><l>पहिला<s n="num"/><s n="ord"/></l><r>पहला<s n="num"/><s n="ord"/></r></p></e>
+	   <e><p><l>पहिला<s n="num"/><s n="ord"/></l><r>प्रथम<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>दूसर<s n="num"/><s n="ord"/></l><r>द्वितीय<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>तीसर<s n="num"/><s n="ord"/></l><r>तीसरा<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>चउथा<s n="num"/><s n="ord"/></l><r>चौथा<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>पांचवां<s n="num"/><s n="ord"/></l><r>पांचवां<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>छठवां<s n="num"/><s n="ord"/></l><r>छठा<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>सातवां<s n="num"/><s n="ord"/></l><r>सातवां<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>आठवां<s n="num"/><s n="ord"/></l><r>आठवां<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>नउवां<s n="num"/><s n="ord"/></l><r>नौवां<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>दसवां<s n="num"/><s n="ord"/></l><r>दसवां<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>दूसर<s n="num"/><s n="ord"/></l><r>द्वितीय<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>तीसर<s n="num"/><s n="ord"/></l><r>तृतीय<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>चउथा<s n="num"/><s n="ord"/></l><r>चतुर्थ<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>पांचवां<s n="num"/><s n="ord"/></l><r>पंचम<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>छठवां<s n="num"/><s n="ord"/></l><r>षष्ठ<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>सातवां<s n="num"/><s n="ord"/></l><r>सप्तम<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>आठवां<s n="num"/><s n="ord"/></l><r>अष्टम<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>नउवां<s n="num"/><s n="ord"/></l><r>नवम<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>>दसवां<s n="num"/><s n="ord"/></l><r>दशम<s n="num"/><s n="ord"/></r></p></e>
+      
+      <e><p><l>चौदहवां<s n="num"/><s n="ord"/></l><r>चौदहवां<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>अठहत्तरवां<s n="num"/><s n="ord"/></l><r>अठहत्तरवां<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>सौवां<s n="num"/><s n="ord"/></l><r>सौवां<s n="num"/><s n="ord"/></r></p></e>
+
 
 
       <e><re>[.\?;:!।॥]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
