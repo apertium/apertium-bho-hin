@@ -1,0 +1,18 @@
+[0qK6ohRpjNEL#0] ^default<default>{^तीसरा<adv>$}$
+[/0qK6ohRpjNEL]
+[Muuxq8wcYBzr#0] ^default<default>{^(<lpar>$}$
+[/Muuxq8wcYBzr]
+[NDWPHPt8Uvtq#0] ^default<default>{^भाषा<n><f><pl><nom>$}$
+[/NDWPHPt8Uvtq]
+[OXPgIukyIPkh#0] ^default<default>{^-<guio>$}$
+[/OXPgIukyIPkh]
+[QbgF6nrAFOI1#0] ^sent<SENT>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[WNkSEvHsPv92#0] ^default<default>{^भोजन<n><m><pl><obl>$}$
+[/WNkSEvHsPv92]
+[gdSy4EpihLRa#0] ^default<default>{^जा<vblex><iv><impf><f><sg>$}$
+[/gdSy4EpihLRa]
+[jc38tTh8SVOm#0] ^sent<SENT>{^।<sent>$}$
+[/jc38tTh8SVOm]
+[rvMwa_wAa-0K#0] ^unknown<unknown>{^*ठीकसेी$}$
+[/rvMwa_wAa-0K]

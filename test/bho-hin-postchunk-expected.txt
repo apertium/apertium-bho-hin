@@ -1,0 +1,18 @@
+[0qK6ohRpjNEL#0] ^तीसरा<adv>$
+[/0qK6ohRpjNEL]
+[Muuxq8wcYBzr#0] ^(<lpar>$
+[/Muuxq8wcYBzr]
+[NDWPHPt8Uvtq#0] ^भाषा<n><f><pl><nom>$
+[/NDWPHPt8Uvtq]
+[OXPgIukyIPkh#0] ^-<guio>$
+[/OXPgIukyIPkh]
+[QbgF6nrAFOI1#0] ^;<sent>$
+[/QbgF6nrAFOI1]
+[WNkSEvHsPv92#0] ^भोजन<n><m><pl><obl>$
+[/WNkSEvHsPv92]
+[gdSy4EpihLRa#0] ^जा<vblex><iv><impf><f><sg>$
+[/gdSy4EpihLRa]
+[jc38tTh8SVOm#0] ^।<sent>$
+[/jc38tTh8SVOm]
+[rvMwa_wAa-0K#0] ^*ठीकसेी$
+[/rvMwa_wAa-0K]

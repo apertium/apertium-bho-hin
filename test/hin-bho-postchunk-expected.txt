@@ -1,0 +1,20 @@
+[0DUCxD10owuT#0] ^,<cm>$
+[/0DUCxD10owuT]
+[9pbKjVeEMWEE#0] ^लॉर्ड<n><m><sg><nom>$
+[/9pbKjVeEMWEE]
+[DaH1a1vPxP4S#0] ^घरे<n><m><pl><obl>$
+[/DaH1a1vPxP4S]
+[OXPgIukyIPkh#0] ^-<guio>$
+[/OXPgIukyIPkh]
+[U4NjWBbLH5-b#0] ^३९१७०२५०,४२६७%<num><percent>$
+[/U4NjWBbLH5-b]
+[YN6IxC8W9369#0] ^*उल्ले$
+[/YN6IxC8W9369]
+[gxOUi1uwCgE7#0] ^*थोडेन$
+[/gxOUi1uwCgE7]
+[rs6dOAEfANMm#0] ^इ<prn><dem><p3><mf><sg><dist><nom>$
+[/rs6dOAEfANMm]
+[u3IIvJtdfATx#0] ^!<sent>$
+[/u3IIvJtdfATx]
+[ul7FHQekrA6V#0] ^)<rpar>$
+[/ul7FHQekrA6V]

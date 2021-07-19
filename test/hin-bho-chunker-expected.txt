@@ -1,0 +1,20 @@
+[0DUCxD10owuT#0] ^default<default>{^,<cm>$}$
+[/0DUCxD10owuT]
+[9pbKjVeEMWEE#0] ^default<default>{^लॉर्ड<n><m><sg><nom>$}$
+[/9pbKjVeEMWEE]
+[DaH1a1vPxP4S#0] ^default<default>{^घरे<n><m><pl><obl>$}$
+[/DaH1a1vPxP4S]
+[OXPgIukyIPkh#0] ^default<default>{^-<guio>$}$
+[/OXPgIukyIPkh]
+[U4NjWBbLH5-b#0] ^default<default>{^३९१७०२५०,४२६७%<num><percent>$}$
+[/U4NjWBbLH5-b]
+[YN6IxC8W9369#0] ^unknown<unknown>{^*उल्ले$}$
+[/YN6IxC8W9369]
+[gxOUi1uwCgE7#0] ^unknown<unknown>{^*थोडेन$}$
+[/gxOUi1uwCgE7]
+[rs6dOAEfANMm#0] ^default<default>{^इ<prn><dem><p3><mf><sg><dist><nom>$}$
+[/rs6dOAEfANMm]
+[u3IIvJtdfATx#0] ^sent<SENT>{^!<sent>$}$
+[/u3IIvJtdfATx]
+[ul7FHQekrA6V#0] ^default<default>{^)<rpar>$}$
+[/ul7FHQekrA6V]

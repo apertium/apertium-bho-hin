@@ -21,3 +21,5 @@
 /config.in
 /config
 fran_hitparade_hin_bho.sh
+/*.zhfst
+/test/*-output.txt

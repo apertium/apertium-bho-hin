@@ -1,0 +1,10 @@
+{
+    "bho-hin": {
+        "input": "bho-hin-input.txt",
+        "mode": "bho-hin"
+    },
+    "hin-bho": {
+        "input": "hin-bho-input.txt",
+        "mode": "hin-bho"
+    }
+}
