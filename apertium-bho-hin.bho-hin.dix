@@ -117,8 +117,7 @@
       <e><p><l>मूँड़न<s n="n"/><s n="m"/></l><r>मुडंन<s n="n"/><s n="m"/></r></p></e> <!--later-->
       <e><p><l>मूत<s n="n"/><s n="m"/></l><r>पेशाब<s n="n"/><s n="m"/></r></p></e> 
       <!-- <e><p><l>लउकल<s n="vblex"/></l><r>देखना<s n="vblex"/></r></p></e>  -->
-      <e><p><l>ऊ<s n="prn"/></l><r>वह<s n="prn"/></r></p></e>
-
+      
       <e><p><l>हँसल<s n="vblex"/></l><r>हँसना<s n="vblex"/></r></p></e>
 
       <e><p><l>आ<s n="n"/><s n="m"/></l>  <r>और<s n="n"/><s n="m"/></r></p></e> <!--IMP-->
@@ -302,7 +301,7 @@
       <e><p><l>कई<s n="det"/></l><r>कई<s n="det"/></r></p></e>
       <e><p><l>कम<s n="det"/></l><r>कम<s n="det"/></r></p></e>
       <e><p><l>अतना<s n="det"/></l><r>इतना<s n="det"/></r></p></e>
-
+      <e><p><l>उनकरा<s n="det"/></l><r>उनका<s n="det"/></r></p></e>
      
       <!--PRONOUNS-->
       <e><p><l>हम<s n="prn"/></l><r>हम<s n="prn"/></r></p></e>
@@ -310,6 +309,7 @@
       <e><p><l>कीया<s n="prn"/></l><r>क्या<s n="prn"/></r></p></e>
       <e><p><l>सब<s n="prn"/></l><r>सब<s n="prn"/></r></p></e>
       <e><p><l>ख़ुद<s n="prn"/></l><r>ख़ुद<s n="prn"/></r></p></e>
+      <e><p><l>उ<s n="prn"/></l><r>वह<s n="prn"/></r></p></e>
 
       <e><p><l>तुंह<b/>लोग<s n="prn"/></l><r>तुम<b/>लोग<s n="prn"/></r></p></e>
       <e><p><l>हम<b/>को<s n="prn"/></l><r>मेरे<b/>को<s n="prn"/></r></p></e>
