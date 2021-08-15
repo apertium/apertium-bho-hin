@@ -36,7 +36,7 @@ for i in "${!modes[@]}"; do
     sl="${modes[$i]:0:3}"
 
     if [[ $sl = "bho" ]]; then
-        monodix="../../../apertium-ben/apertium-bho.bho.dix"
+        monodix="../../../apertium-bho/apertium-bho.bho.dix"
     else
         monodix="../../../apertium-hin/apertium-hin.hin.dix"
     fi
