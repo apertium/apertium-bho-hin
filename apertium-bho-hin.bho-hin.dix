@@ -284,13 +284,11 @@
 
       <!--DETERMINERS-->
       <e><p><l>जेकर<s n="det"/></l><r>जिसका<s n="det"/></r></p></e>
-      <e><p><l>सभे<s n="det"/></l><r>सब<s n="det"/></r></p></e>
       <e><p><l>ओकरा<s n="det"/></l><r>उसका<s n="det"/></r></p></e>
       <e><p><l>अधिका<s n="det"/></l><r>अधिक<s n="det"/></r></p></e>
       <e><p><l>दुन्नों<s n="det"/></l><r>दोनों<s n="det"/></r></p></e>
       <e><p><l>एही<s n="det"/></l><r>यहीं<s n="det"/></r></p></e>
       <e><p><l>कवनो<s n="det"/></l><r>कोई<s n="det"/></r></p></e>
-      <e><p><l>एह<s n="det"/></l><r>यह<s n="det"/></r></p></e>
       <e><p><l>जवन<s n="det"/></l><r>जो<s n="det"/></r></p></e>
       <e><p><l>कतना<s n="det"/></l><r>कितना<s n="det"/></r></p></e>
       <e><p><l>अइसन<s n="det"/></l><r>ऐसा<s n="det"/></r></p></e>
@@ -303,7 +301,6 @@
       <e><p><l>अतना<s n="det"/></l><r>इतना<s n="det"/></r></p></e>
       <e><p><l>उनकरा<s n="det"/></l><r>उनका<s n="det"/></r></p></e>
      <e><p><l>अपना<s n="det"/></l><r>अपना<s n="det"/></r></p></e>
-     <e><p><l>कीया<s n="det"/></l><r>क्या<s n="det"/></r></p></e>
 
       <!--PRONOUNS-->
       <e><p><l>हम<s n="prn"/></l><r>हम<s n="prn"/></r></p></e>
