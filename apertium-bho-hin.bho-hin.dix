@@ -76,203 +76,18 @@
   </sdefs>
 
    <section id="main" type="standard">
-      <!-- Define entries within <e> here. -->
-      
-      <e><p><l>जेम्स<s n="np"/></l><r>जेम्स<s n="np"/></r></p></e>
-      <e><p><l>मैरी<s n="np"/></l><r>मैरी<s n="np"/></r></p></e>
-      <e><p><l>कहवा<s n="adv"/><s n="itg"/></l><r>कहाँ<s n="adv"/><s n="itg"/></r></p></e>
-      
-      <e><p><l>आजु<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
-      <e><p><l>मौसम<s n="n"/><s n="m"/></l><r>मौसम<s n="n"/><s n="m"/></r></p></e> 
-      
-      <e><p><l>सुंदर<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e> 
-      <e><p><l>बढ़िया<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>
-      
-      <e><p><l>बड़ा<s n="adj"/></l>  <r>बहुत<s n="adj"/></r></p></e>
-      <e><p><l>बड़हन<s n="adj"/></l><r>बड़ा<s n="adj"/></r></p></e>  <!--NS-->
-      <e><p><l>काल्ह<s n="n"/></l><r>कल<s n="n"/></r></p></e>
-      
-      <e><p><l>ठंडा<s n="n"/><s n="f"/></l><r>ठंडक<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>थी<s n="vbser"/></l><r>थी<s n="vbser"/></r></p></e>
-      
-      <e><p><l>बहरा<s n="adv"/></l><r>बाहर<s n="adv"/></r></p></e>
-      
-      <e><p><l>खेलल<s n="vblex"/></l><r>खेल<s n="vblex"/></r></p></e> <!--IMP-->
-      <e><p><l>खेला<s n="n"/><s n="m"/></l><r>खेल<s n="n"/><s n="m"/></r></p></e> <!--IMP-->
-      
-      <e><p><l>सकल<s n="vaux"/></l><r>सक<s n="vaux"/></r></p></e>  <!--IMP-->
-      <e><p><l>अउरी<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
-      <e><p><l>फुलवारी<s n="n"/><s n="m"/></l> <r>बाग<s n="n"/><s n="m"/></r></p></e>
-      
 
-      <e><p><l>तब<s n="adv"/></l><r>तब<s n="adv"/></r></p></e>
-      <e><p><l>छोट<s n="adj"/></l><r>छोटा<s n="adj"/></r></p></e>
-      <e><p><l>हाथ<s n="n"/><s n="m"/></l><r>हस्त<s n="n"/><s n="m"/></r></p></e>
+      <!-- Conjunctions -->
 
-      <e><p><l>देखल<s n="vblex"/></l><r>देख<s n="vblex"/></r></p></e>
-      <e><p><l>लगे<s n="adv"/></l><r>पास<s n="adv"/></r></p></e>
-      <e><p><l>त<s n="adv"/></l><r>तब<s n="adv"/></r></p></e> <!--IMP-->
-      <e><p><l>उनचन<s n="n"/><s n="m"/></l><r>आरोचन<s n="n"/><s n="m"/></r></p></e> <!--later-->
-      <e><p><l>मूँड़<s n="n"/><s n="m"/></l><r>सिर<s n="n"/><s n="m"/></r></p></e> 
-      <e><p><l>मूँड़न<s n="n"/><s n="m"/></l><r>मुडंन<s n="n"/><s n="m"/></r></p></e> <!--later-->
-      <e><p><l>मूत<s n="n"/><s n="m"/></l><r>पेशाब<s n="n"/><s n="m"/></r></p></e> 
-      <!-- <e><p><l>लउकल<s n="vblex"/></l><r>देखना<s n="vblex"/></r></p></e>  -->
-      
-      <e><p><l>हँसल<s n="vblex"/></l><r>हँसना<s n="vblex"/></r></p></e>
-
-      <e><p><l>आ<s n="n"/><s n="m"/></l>  <r>और<s n="n"/><s n="m"/></r></p></e> <!--IMP-->
-
-      <e><p><l>कहल<s n="vblex"/></l>  <r>कह<s n="vblex"/></r></p></e>
-
-      <e><p><l>कहनी<s n="n"/><s n="f"/></l>  <r>कहानी<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>काँच<s n="n"/><s n="m"/></l>  <r>शीशा<s n="n"/><s n="m"/></r></p></e> 
-
-      <e><p><l>तुंह<s n="prn"/></l>  <r>तुम<s n="prn"/></r></p></e> <!--IMP-->
-      <e><p><l>तोहमत<s n="n"/><s n="m"/></l>  <r>दोष<s n="n"/><s n="m"/></r></p></e> 
-      <e><p><l>तौर<s n="n"/><s n="f"/></l>  <r>हालत<s n="n"/><s n="f"/></r></p></e>
-
-      <e><p><l>ढूकल<s n="n"/><s n="m"/></l>  <r>प्रवेश<s n="n"/><s n="m"/></r></p></e> 
-      <e><p><l>निकेल<s n="vblex"/></l>  <r>निकल<s n="vblex"/></r></p></e>
-      <e><p><l>पइयाँ<s n="n"/><s n="m"/></l>  <r>पाँव<s n="n"/><s n="m"/></r></p></e> 
-      <e><p><l>पतरा<s n="n"/><s n="m"/></l>  <r>पंचांग<s n="n"/><s n="m"/></r></p></e> 
-
-      <e><p><l>के<s n="post"/><s n="gen"/></l><r>के<s n="post"/><s n="gen"/></r></p></e>      <!--V IMP-->
-      <e><p><l>खोज<s n="n"/><s n="f"/></l> <r>तलाश<s n="n"/><s n="f"/></r></p></e>
-
-      <e><p><l>गईल<s n="vblex"/></l>  <r>जा<s n="vblex"/></r></p></e>  <!--ask-->
-
-      <e><p><l>घरे<s n="n"/><s n="m"/></l>  <r>घर<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>कुछू<s n="adj"/></l><r>कुछ<s n="adj"/></r></p></e>
-      <e><p><l>खायेक<s n="n"/><s n="m"/></l>  <r>खाना<s n="n"/><s n="m"/></r></p></e> 
-      <e><p><l>तनिक<s n="adj"/></l><r>थोडा<s n="adj"/></r></p></e>
-      <e><p><l>पिया<s n="n"/><s n="m"/></l>  <r>पिआ<s n="n"/><s n="m"/></r></p></e> <!--later-->
-      
-      <e><p><l>बानी<s n="vbser"/></l> <r>हो<s n="vbser"/></r></p></e> 
-
-      <e><p><l>बान<s n="n"/></l>  <r>बान<s n="n"/></r></p></e> 
-
-      <e><p><l>अंतराल<s n="n"/><s n="m"/></l> <r>अंतराल<s n="n"/><s n="m"/></r></p></e> 
-      <e><p><l>गरम<s n="adj"/></l><r>गर्म<s n="adj"/></r></p></e>
-      <e><p><l>गरब<s n="n"/><s n="m"/></l>  <r>गर्व<s n="n"/><s n="m"/></r></p></e> 
-      <e><p><l>लेकिन<s n="cnjcoo"/></l><r>मगर<s n="cnjcoo"/></r></p></e>
-      <e><p><l>लूलू<s n="adj"/></l><r>मुर्ख<s n="adj"/></r></p></e> <!--later-->
-      <e><p><l>ना<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e> 
-      <e><p><l>खैका<s n="n"/><s n="m"/></l>  <r>भोजन<s n="n"/><s n="m"/></r></p></e> 
-
-      <e><p><l>लइका<s n="n"/><s n="m"/></l>  <r>बालक<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>साल<s n="n"/><s n="m"/></l>  <r>वर्ष<s n="n"/><s n="m"/></r></p></e>
-
-      <e><p><l>लइकी<s n="n"/><s n="f"/></l> <r>बच्ची<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>हई<s n="vbser"/></l>  <r>हूँ<s n="vbser"/></r></p></e> <!--wrong translation-->
-
-      <e><p><l>पाँक<s n="n"/><s n="m"/></l>  <r>कीचड़<s n="n"/><s n="m"/></r></p></e> <!--later-->
-      <e><p><l>लगे<s n="adv"/></l><r>पास<s n="adv"/></r></p></e>
-      <e><p><l>कुकुर<s n="n"/><s n="m"/></l>  <r>कुत्ता<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>भी<s n="adv"/></l><r>भी<s n="adv"/></r></p></e>
-      <e><p><l>अब<s n="adv"/></l><r>अभी<s n="adv"/></r></p></e>
-      <e><p><l>खुस<s n="adj"/></l><r>ख़ुश<s n="adj"/></r></p></e>
-      <e><p><l>लकम<s n="n"/><s n="f"/></l>  <r>आदत<s n="n"/><s n="f"/></r></p></e> 
-      <e><p><l>बच्चा<s n="n"/><s n="m"/></l>  <r>बच्चा<s n="n"/><s n="m"/></r></p></e>
-
-      <!---3rd line-->
-      <e><p><l>छोटाई<s n="adv"/></l><r>छोटी<s n="adv"/></r></p></e>
-      <e><p><l>बहिन<s n="n"/><s n="f"/></l><r>बहन<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>में<s n="post"/></l><r>में<s n="post"/></r></p></e>
-      <e><p><l>संगे<s n="post"/></l><r>साथ<s n="post"/></r></p></e>
-
-      <!---4th line-->
-      <e><p><l>बिलार<s n="n"/></l>  <r>बिल्ली<s n="n"/></r></p></e>
-      <e><p><l>सुतल<s n="vblex"/></l>  <r>सो<s n="vblex"/></r></p></e>
-
-      <!---5th line-->
-      <e><p><l>उनके<s n="prn"/></l><r>इनकी<s n="prn"/></r></p></e>
-      <e><p><l>महतारी<s n="n"/><s n="f"/></l><r>माता<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>रोशनदान<s n="n"/><s n="f"/></l><r>खिड़की<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>जल्दी<s n="n"/><s n="f"/></l><r>जल्दी<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>पुरनका<s n="adj"/></l><r>पुराना<s n="adj"/></r></p></e>
-
-      <!---6th line-->
-      <e><p><l>इ<s n="prn"/></l><r>यह<s n="prn"/></r></p></e>
-      <e><p><l>जब<s n="adv"/></l><r>जब<s n="adv"/></r></p></e>
-      <e><p><l>गिनती<s n="n"/></l><r>गिनती<s n="n"/></r></p></e>
-      <e><p><l>समापन<s n="n"/><s n="m"/></l><r>समाप्त<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ऐने<s n="adv"/></l><r>इधर<s n="adv"/></r></p></e>
-      <e><p><l>ओने<s n="adv"/></l><r>उधर<s n="adv"/></r></p></e>
-      <e><p><l>के<s n="post"/></l><r>को<s n="post"/></r></p></e>
-      <e><p><l>खोज<s n="vblex"/></l><r>खोज<s n="vblex"/></r></p></e>
-      <e><p><l>कर<s n="vblex"/><s n="tv"/></l><r>कर<s n="vblex"/><s n="tv"/></r></p></e>
-      <e><p><l>लगली<s n="vblex"/></l><r>ले<s n="vblex"/></r></p></e> 
-      <e><p><l>रहल<s n="vaux"/></l><r>रह<s n="vaux"/></r></p></e> <!--NS-->
-      <e><p><l>ने<s n="post"/></l><r>ने<s n="post"/></r></p></e>
-
-      <!---7th line-->
-      <e><p><l>सवाल<s n="n"/><s n="m"/></l><r>सवाल<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>जवाब<s n="n"/><s n="m"/></l><r>जवाब<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>केहू<s n="adv"/></l><r>कोई<s n="adv"/></r></p></e>
-      <e><p><l>लोगो<s n="n"/></l><r>लोगो<s n="n"/></r></p></e>
-      <e><p><l>तक<s n="cnjadv"/></l><r>तक<s n="cnjadv"/></r></p></e>
-      <e><p><l>मालूम<s n="vblex"/><s n="tv"/></l><r>जान<s n="vblex"/><s n="tv"/></r></p></e>
-
-      <!---8th line-->
-      <e><p><l>पिछले<s n="post"/></l><r>पीछे<s n="post"/></r></p></e>
-      <e><p><l>अपना<s n="adj"/></l><r>अपना<s n="adj"/></r></p></e>
-      <e><p><l>हँसुआ<s n="vblex"/></l><r>हंस<s n="vblex"/></r></p></e> <!--NS-->
       <e><p><l>कि<s n="cnjsub"/></l><r>कि<s n="cnjsub"/></r></p></e>
-      <e><p><l>उन्हंका<s n="prn"/></l><r>उन्होंने<s n="prn"/></r></p></e>
+      <e><p><l>अउरी<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
+      <e><p><l>लेकिन<s n="cnjcoo"/></l><r>मगर<s n="cnjcoo"/></r></p></e>
       <e><p><l>यद्यपि<s n="cnjcoo"/></l><r>हालांकि<s n="cnjcoo"/></r></p></e>
-      <e><p><l>शायद<s n="adv"/></l><r>शायद<s n="adv"/></r></p></e>
+      <e><p><l>तक<s n="cnjadv"/></l><r>तक<s n="cnjadv"/></r></p></e>
+      <e><p><l>चाहे<s n="cnjadv"/></l><r>चाहे<s n="cnjadv"/></r></p></e> 
 
-      <!---9th line-->
-      <e><p><l>धीरे-धीरे<s n="adv"/></l><r>धीरे-धीरे<s n="adv"/></r></p></e>
-      <e><p><l>कोशिश<s n="n"/><s n="m"/></l><r>प्रयास<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>चौकी<s n="n"/><s n="m"/></l><r>मेज<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>कुर्सी<s n="n"/><s n="f"/></l><r>कुर्सी<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>के नीचे<s n="post"/></l><r>के नीचे<s n="post"/></r></p></e>
-      <e><p><l>हर<s n="adj"/></l><r>हर<s n="adj"/></r></p></e>
-      <e><p><l>हर<s n="adv"/></l><r>हर<s n="adv"/></r></p></e>
-      <e><p><l>आवाज<s n="n"/><s n="f"/></l><r>आवाज<s n="n"/><s n="f"/></r></p></e>
+      <!-- Postpositions -->
 
-      <!---10th line-->
-      <e><p><l>गाछी<s n="n"/><s n="m"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
-
-      <e><p><l>आ<s n="vblex"/></l><r>आ<s n="vblex"/></r></p></e> <!--IMP-->
-
-      <e><p><l>बोल<s n="vblex"/></l><r>बोल<s n="vblex"/></r></p></e>
-
-      <!--1 Jun-->
-      <e><p><l>अँचरा<s n="n"/><s n="m"/></l><r>आँचल<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>अदत<s n="n"/><s n="f"/></l><r>संख्या<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>अहेर<s n="n"/><s n="m"/></l><r>शिकार<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>असरा<s n="n"/><s n="m"/></l><r>भरोसा<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>अरविंद<s n="n"/><s n="m"/></l><r>कमल<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>अनसन<s n="n"/><s n="m"/></l><r>उपवास<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>अधवा<s n="n"/><s n="f"/></l><r>विधवा<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>अनटी<s n="n"/><s n="f"/></l><r>शरारत<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>अपासी<s n="n"/><s n="f"/></l><r>सिंचाई<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>आड़ा<s n="n"/><s n="f"/></l><r>रजाई<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>उलथा<s n="n"/><s n="m"/></l><r>अनुवाद<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ओकील<s n="n"/><s n="m"/></l><r>वकील<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ओजन<s n="n"/><s n="m"/></l><r>भार<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>कथा<s n="n"/><s n="f"/></l><r>काथा<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>कान्ह<s n="n"/><s n="m"/></l><r>कंधा<s n="n"/><s n="m"/></r></p></e>
-
-      <!--2 Jun-->
-      <e><p><l>अंझुराईल<s n="adj"/></l><r>जटिल<s n="adj"/></r></p></e>
-      <e><p><l>अंडनियर<s n="adj"/></l><r>अंडाकार<s n="adj"/></r></p></e>
-      <e><p><l>अऊअल<s n="adj"/></l><r>प्रथम<s n="adj"/></r></p></e>
-      <e><p><l>अकिला<s n="adj"/></l><r>बुद्धिमान<s n="adj"/></r></p></e>
-      <e><p><l>अगम<s n="adj"/></l><r>गहरा<s n="adj"/></r></p></e>
-      <e><p><l>अगिआह<s n="adj"/></l><r>कामुक<s n="adj"/></r></p></e>
-      <e><p><l>अगिला<s n="adj"/></l><r>अगला<s n="adj"/></r></p></e>
-      <e><p><l>अगूढ़<s n="adj"/></l><r>सहज<s n="adj"/></r></p></e>
-      <e><p><l>अछम्य<s n="adj"/></l><r>अक्षम्य<s n="adj"/></r></p></e>
-      <e><p><l>अछम<s n="adj"/></l><r>असमर्थ<s n="adj"/></r></p></e>
-      <e><p><l>अजय<s n="adj"/></l><r>अजेय<s n="adj"/></r></p></e>
-      <e><p><l>अजीज<s n="adj"/></l><r>मूल्यवान<s n="adj"/></r></p></e>
-      <e><p><l>अजोग<s n="adj"/></l><r>अयोग्य<s n="adj"/></r></p></e>
-      <e><p><l>अटपटाह<s n="adj"/></l><r>अटपटा<s n="adj"/></r></p></e>
-      <e><p><l>अत<s n="adj"/></l><r>अत्यधिक<s n="adj"/></r></p></e>
-	
       <e><p><l>सिवा<s n="post"/></l><r>सिवा<s n="post"/></r></p></e>
       <e><p><l>के<s n="post"/></l><r>के<s n="post"/></r></p></e>
       <e><p><l>का<s n="post"/></l><r>का<s n="post"/></r></p></e>
@@ -280,9 +95,17 @@
       <e><p><l>पर<s n="post"/></l><r>पर<s n="post"/></r></p></e>
       <e><p><l>पर<s n="post"/></l><r>पर<s n="post"/></r></p></e>
       <e><p><l>के<b/>लिए<s n="post"/></l><r>के<b/>लिए<s n="post"/></r></p></e>
-      <e><p><l>खातिर<s n="post"/></l><r>प्रति<s n="post"/></r></p></e> 
+      <e><p><l>खातिर<s n="post"/></l><r>प्रति<s n="post"/></r></p></e>       
+      <e><p><l>में<s n="post"/></l><r>में<s n="post"/></r></p></e>
+      <e><p><l>संगे<s n="post"/></l><r>साथ<s n="post"/></r></p></e>
+      <e><p><l>पिछले<s n="post"/></l><r>पीछे<s n="post"/></r></p></e>
+      <e><p><l>के<s n="post"/></l><r>के<s n="post"/></r></p></e>  
+      <e><p><l>ने<s n="post"/></l><r>ने<s n="post"/></r></p></e>
+      <e><p><l>के<b/>लिए<s n="post"/></l><r>के<b/>लिए<s n="post"/></r></p></e>
+      <e><p><l>के<b/>नीचे<s n="post"/></l><r>के<b/>नीचे<s n="post"/></r></p></e>      
+   
+      <!-- Determiners -->
 
-      <!--DETERMINERS-->
       <e><p><l>जेकर<s n="det"/></l><r>जिसका<s n="det"/></r></p></e>
       <e><p><l>ओकरा<s n="det"/></l><r>उसका<s n="det"/></r></p></e>
       <e><p><l>अधिका<s n="det"/></l><r>अधिक<s n="det"/></r></p></e>
@@ -300,9 +123,11 @@
       <e><p><l>कम<s n="det"/></l><r>कम<s n="det"/></r></p></e>
       <e><p><l>अतना<s n="det"/></l><r>इतना<s n="det"/></r></p></e>
       <e><p><l>उनकरा<s n="det"/></l><r>उनका<s n="det"/></r></p></e>
-     <e><p><l>अपना<s n="det"/></l><r>अपना<s n="det"/></r></p></e>
+      <e><p><l>अपना<s n="det"/></l><r>अपना<s n="det"/></r></p></e>
+      <e><p><l>जेकर<s n="det"/></l><r>जिसका<s n="det"/></r></p></e>
 
-      <!--PRONOUNS-->
+      <!-- Pronouns -->
+
       <e><p><l>हम<s n="prn"/></l><r>हम<s n="prn"/></r></p></e>
       <e><p><l>तुंह<s n="prn"/></l><r>तुम<s n="prn"/></r></p></e>
       <e><p><l>कीया<s n="prn"/></l><r>क्या<s n="prn"/></r></p></e>
@@ -329,9 +154,20 @@
       <e><p><l>उ<b/>लोगों<b/>का<s n="prn"/></l><r>उन<b/>लोगों<b/>का<s n="prn"/></r></p></e>
       
       <e><p><l>जवन<s n="prn"/></l><r>जो<s n="prn"/></r></p></e>
-      <e><p><l>नाम<s n="n"/></l><r>नाम<s n="n"/></r></p></e>
+      <e><p><l>उन्हंका<s n="prn"/></l><r>उन्होंने<s n="prn"/></r></p></e>
+      <e><p><l>अपना<s n="prn"/></l><r>अपना<s n="prn"/></r></p></e> 
+      <e><p><l>हमारा<s n="prn"/></l><r>मेरा<s n="prn"/></r></p></e>
+      <e><p><l>हमारा<s n="prn"/></l><r>हमारा<s n="prn"/></r></p></e>
+      <e><p><l>इसका<s n="prn"/></l><r>इसका<s n="prn"/></r></p></e>
+      <e><p><l>उनकरा<s n="prn"/></l><r>उनका<s n="prn"/></r></p></e>
+      <e><p><l>ओकरा<s n="prn"/></l><r>उसका<s n="prn"/></r></p></e>
+      <e><p><l>आपका<s n="prn"/></l><r>आपका<s n="prn"/></r></p></e>
+      <e><p><l>तुंह<s n="prn"/></l><r>तुम<s n="prn"/></r></p></e> 
+      <e><p><l>उनके<s n="prn"/></l><r>इनकी<s n="prn"/></r></p></e>
+      <e><p><l>इ<s n="prn"/></l><r>यह<s n="prn"/></r></p></e>
 
-     <!--NUMERALS-->
+
+     <!-- Numerals -->
 
       <e><p><l>0<s n="num"/></l><r>0<s n="num"/></r></p></e>
       <e><p><l>१<s n="num"/></l><r>१<s n="num"/></r></p></e>
@@ -451,6 +287,8 @@
       <e><p><l>हज़ार<s n="num"/></l><r>हज़ार<s n="num"/></r></p></e>
       <e><p><l>अरब<s n="num"/></l><r>अरब<s n="num"/></r></p></e>
 
+      <!--ADJECTIVES-->
+
       <e><p><l>पहिला<s n="adj"/></l><r>पहला<s n="adj"/></r></p></e>
       <e><p><l>दोसरा<s n="adj"/></l><r>दूसरा<s n="adj"/></r></p></e>
       <e><p><l>तीसरा<s n="adj"/></l><r>तीसरा<s n="adj"/></r></p></e>
@@ -482,10 +320,38 @@
       <e><p><l>सौंवाँ<s n="adj"/></l><r>सौंवाँ<s n="adj"/></r></p></e>
       <e><p><l>हज़ारवाँ<s n="adj"/></l><r>हज़ारवाँ<s n="adj"/></r></p></e>
 
-      <!--ADVERBS-->
+      <e><p><l>अंझुराईल<s n="adj"/></l><r>जटिल<s n="adj"/></r></p></e>
+      <e><p><l>अंडनियर<s n="adj"/></l><r>अंडाकार<s n="adj"/></r></p></e>
+      <e><p><l>अऊअल<s n="adj"/></l><r>प्रथम<s n="adj"/></r></p></e>
+      <e><p><l>अकिला<s n="adj"/></l><r>बुद्धिमान<s n="adj"/></r></p></e>
+      <e><p><l>अगम<s n="adj"/></l><r>गहरा<s n="adj"/></r></p></e>
+      <e><p><l>अगिआह<s n="adj"/></l><r>कामुक<s n="adj"/></r></p></e>
+      <e><p><l>अगिला<s n="adj"/></l><r>अगला<s n="adj"/></r></p></e>
+      <e><p><l>अगूढ़<s n="adj"/></l><r>सहज<s n="adj"/></r></p></e>
+      <e><p><l>अछम्य<s n="adj"/></l><r>अक्षम्य<s n="adj"/></r></p></e>
+      <e><p><l>अछम<s n="adj"/></l><r>असमर्थ<s n="adj"/></r></p></e>
+      <e><p><l>अजय<s n="adj"/></l><r>अजेय<s n="adj"/></r></p></e>
+      <e><p><l>अजीज<s n="adj"/></l><r>मूल्यवान<s n="adj"/></r></p></e>
+      <e><p><l>अजोग<s n="adj"/></l><r>अयोग्य<s n="adj"/></r></p></e>
+      <e><p><l>अटपटाह<s n="adj"/></l><r>अटपटा<s n="adj"/></r></p></e>
+      <e><p><l>अत<s n="adj"/></l><r>अत्यधिक<s n="adj"/></r></p></e>
+
+      <e><p><l>सुंदर<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e> 
+      <e><p><l>बढ़िया<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>
+      <e><p><l>बड़ा<s n="adj"/></l><r>बहुत<s n="adj"/></r></p></e>
+      <e><p><l>बड़हन<s n="adj"/></l><r>बड़ा<s n="adj"/></r></p></e> 
+      <e><p><l>छोट<s n="adj"/></l><r>छोटा<s n="adj"/></r></p></e>
+      <e><p><l>कुछू<s n="adj"/></l><r>कुछ<s n="adj"/></r></p></e>
+      <e><p><l>तनिक<s n="adj"/></l><r>थोडा<s n="adj"/></r></p></e>
+      <e><p><l>गरम<s n="adj"/></l><r>गर्म<s n="adj"/></r></p></e>
+      <e><p><l>लूलू<s n="adj"/></l><r>मुर्ख<s n="adj"/></r></p></e>
+      <e><p><l>खुस<s n="adj"/></l><r>ख़ुश<s n="adj"/></r></p></e>
+      <e><p><l>पुरनका<s n="adj"/></l><r>पुराना<s n="adj"/></r></p></e>
+      <e><p><l>अपना<s n="adj"/></l><r>अपना<s n="adj"/></r></p></e>
+      <e><p><l>हर<s n="adj"/></l><r>हर<s n="adj"/></r></p></e>
+
+      <!-- Adverbs -->
       
-      <e><p><l>जेकर<s n="det"/></l><r>जिसका<s n="det"/></r></p></e>
-      <e><p><l>चाहे<s n="cnjadv"/></l><r>चाहे<s n="cnjadv"/></r></p></e> 
       <e><p><l>अइसे<s n="adv"/></l><r>यों<s n="adv"/></r></p></e> 
       <e><p><l>अत<s n="adv"/></l><r>अत<s n="adv"/></r></p></e> 
       <e><p><l>हरदम<s n="adv"/></l><r>सदैव<s n="adv"/></r></p></e> 
@@ -541,7 +407,27 @@
       <e><p><l>तुरंते<s n="adv"/></l><r>अविलम्ब<s n="adv"/></r></p></e>
       <e><p><l>अलगे<s n="adv"/></l><r>अलग<s n="adv"/></r></p></e>
       <e><p><l>अचानकसे<s n="adv"/></l><r>अकस्मात्<s n="adv"/></r></p></e>
-      
+      <e><p><l>कहवा<s n="adv"/></l><r>कहाँ<s n="adv"/></r></p></e>
+      <e><p><l>आजु<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
+      <e><p><l>बहरा<s n="adv"/></l><r>बाहर<s n="adv"/></r></p></e>
+      <e><p><l>तब<s n="adv"/></l><r>तब<s n="adv"/></r></p></e>
+      <e><p><l>लगे<s n="adv"/></l><r>पास<s n="adv"/></r></p></e>
+      <e><p><l>त<s n="adv"/></l><r>तब<s n="adv"/></r></p></e> 
+      <e><p><l>ना<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e> 
+      <e><p><l>लगे<s n="adv"/></l><r>पास<s n="adv"/></r></p></e>
+      <e><p><l>भी<s n="adv"/></l><r>भी<s n="adv"/></r></p></e>
+      <e><p><l>अब<s n="adv"/></l><r>अभी<s n="adv"/></r></p></e>
+      <e><p><l>छोटाई<s n="adv"/></l><r>छोटी<s n="adv"/></r></p></e>
+      <e><p><l>जब<s n="adv"/></l><r>जब<s n="adv"/></r></p></e>
+      <e><p><l>ऐने<s n="adv"/></l><r>इधर<s n="adv"/></r></p></e>
+      <e><p><l>ओने<s n="adv"/></l><r>उधर<s n="adv"/></r></p></e>
+      <e><p><l>केहू<s n="adv"/></l><r>कोई<s n="adv"/></r></p></e>
+      <e><p><l>शायद<s n="adv"/></l><r>शायद<s n="adv"/></r></p></e>
+      <e><p><l>धीरे-धीरे<s n="adv"/></l><r>धीरे-धीरे<s n="adv"/></r></p></e>
+      <e><p><l>हर<s n="adv"/></l><r>हर<s n="adv"/></r></p></e>
+            
+      <!-- Nouns -->
+
       <e><p><l>अंग्रेज<s n="n"/><s n="m"/></l><r>अंग्रेज<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>स्वातंत्र्य<s n="n"/><s n="m"/></l><r>स्वातंत्र्य<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>समर<s n="n"/><s n="m"/></l><r>समर<s n="n"/><s n="m"/></r></p></e> 
@@ -626,6 +512,7 @@
       <e><p><l>सनेशा<s n="n"/><s n="m"/></l><r>संदेश<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>रंगढंग<s n="n"/><s n="m"/></l><r>व्यवहार<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>अपना<s n="n"/><s n="m"/></l><r>अपना<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>मौसम<s n="n"/><s n="m"/></l><r>मौसम<s n="n"/><s n="m"/></r></p></e> 
 
       <e><p><l>बटवारा<s n="n"/><s n="m"/></l><r>विभाजन<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>जीत<s n="n"/><s n="m"/></l><r>विजय<s n="n"/><s n="m"/></r></p></e> 
@@ -707,6 +594,24 @@
       <e><p><l>सिंहासन<s n="n"/><s n="m"/></l><r>सिंहासन<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>सार<s n="n"/><s n="m"/></l><r>सार<s n="n"/><s n="m"/></r></p></e>
 
+      <e><p><l>अँचरा<s n="n"/><s n="m"/></l><r>आँचल<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>अदत<s n="n"/><s n="f"/></l><r>संख्या<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>अहेर<s n="n"/><s n="m"/></l><r>शिकार<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>असरा<s n="n"/><s n="m"/></l><r>भरोसा<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>अरविंद<s n="n"/><s n="m"/></l><r>कमल<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>अनसन<s n="n"/><s n="m"/></l><r>उपवास<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>अधवा<s n="n"/><s n="f"/></l><r>विधवा<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>अनटी<s n="n"/><s n="f"/></l><r>शरारत<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>अपासी<s n="n"/><s n="f"/></l><r>सिंचाई<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>आड़ा<s n="n"/><s n="f"/></l><r>रजाई<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>उलथा<s n="n"/><s n="m"/></l><r>अनुवाद<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ओकील<s n="n"/><s n="m"/></l><r>वकील<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ओजन<s n="n"/><s n="m"/></l><r>भार<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>कथा<s n="n"/><s n="f"/></l><r>काथा<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>कान्ह<s n="n"/><s n="m"/></l><r>कंधा<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>कोशिश<s n="n"/><s n="m"/></l><r>प्रयास<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>चौकी<s n="n"/><s n="m"/></l><r>मेज<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>कुर्सी<s n="n"/><s n="f"/></l><r>कुर्सी<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>सेना<s n="n"/><s n="f"/></l><r>सेना<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>पोथी<s n="n"/><s n="f"/></l><r>पुस्तक<s n="n"/><s n="f"/></r></p></e> 
@@ -817,19 +722,86 @@
       <e><p><l>सफलता<s n="n"/><s n="f"/></l><r>सार्थकता<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>सहानुभूति<s n="n"/><s n="f"/></l><r>सहानुभूति<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>भाव<s n="n"/><s n="f"/></l><r>संस्था<s n="n"/><s n="f"/></r></p></e> 
-      <e><p><l>पार्लामेंट<s n="n"/><s n="f"/></l><r>संसद<s n="n"/><s n="f"/></r></p></e> 
-      
-      <e><p><l>अपना<s n="prn"/></l><r>अपना<s n="prn"/></r></p></e> 
-      <e><p><l>हमारा<s n="prn"/></l><r>मेरा<s n="prn"/></r></p></e>
-      <e><p><l>हमारा<s n="prn"/></l><r>हमारा<s n="prn"/></r></p></e>
-      <e><p><l>इसका<s n="prn"/></l><r>इसका<s n="prn"/></r></p></e>
-      <e><p><l>उनकरा<s n="prn"/></l><r>उनका<s n="prn"/></r></p></e>
-      <e><p><l>ओकरा<s n="prn"/></l><r>उसका<s n="prn"/></r></p></e>
-      <e><p><l>आपका<s n="prn"/></l><r>आपका<s n="prn"/></r></p></e>
+      <e><p><l>पार्लामेंट<s n="n"/><s n="f"/></l><r>संसद<s n="n"/><s n="f"/></r></p></e>
 
+      <e><p><l>काल्ह<s n="n"/><s n="m"/></l><r>कल<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>खेला<s n="n"/><s n="m"/></l><r>खेल<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>ठंडा<s n="n"/><s n="f"/></l><r>ठंडक<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>फुलवारी<s n="n"/><s n="m"/></l> <r>बाग<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>हाथ<s n="n"/><s n="m"/></l><r>हस्त<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>उनचन<s n="n"/><s n="m"/></l><r>आरोचन<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>मूँड़<s n="n"/><s n="m"/></l><r>सिर<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>मूँड़न<s n="n"/><s n="m"/></l><r>मुडंन<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>मूत<s n="n"/><s n="m"/></l><r>पेशाब<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>आ<s n="n"/><s n="m"/></l><r>और<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>कहनी<s n="n"/><s n="f"/></l><r>कहानी<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>काँच<s n="n"/><s n="m"/></l><r>शीशा<s n="n"/><s n="m"/></r></p></e> 
+
+      <e><p><l>तोहमत<s n="n"/><s n="m"/></l><r>दोष<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>तौर<s n="n"/><s n="f"/></l><r>हालत<s n="n"/><s n="f"/></r></p></e>
+
+      <e><p><l>ढूकल<s n="n"/><s n="m"/></l><r>प्रवेश<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>पइयाँ<s n="n"/><s n="m"/></l><r>पाँव<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>पतरा<s n="n"/><s n="m"/></l><r>पंचांग<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>खोज<s n="n"/><s n="f"/></l><r>तलाश<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>घरे<s n="n"/><s n="m"/></l><r>घर<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>खायेक<s n="n"/><s n="m"/></l><r>खाना<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>पिया<s n="n"/><s n="m"/></l><r>पिआ<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>बान<s n="n"/><s n="m"/></l><r>बान<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>अंतराल<s n="n"/><s n="m"/></l><r>अंतराल<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>गरब<s n="n"/><s n="m"/></l><r>गर्व<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>खैका<s n="n"/><s n="m"/></l><r>भोजन<s n="n"/><s n="m"/></r></p></e> 
+      <e><p><l>लइका<s n="n"/><s n="m"/></l><r>बालक<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>साल<s n="n"/><s n="m"/></l><r>वर्ष<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>लइकी<s n="n"/><s n="f"/></l> <r>बच्ची<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>पाँक<s n="n"/><s n="m"/></l><r>कीचड़<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>कुकुर<s n="n"/><s n="m"/></l><r>कुत्ता<s n="n"/><s n="m"/></r></p></e>
+
+      <e><p><l>लकम<s n="n"/><s n="f"/></l><r>आदत<s n="n"/><s n="f"/></r></p></e> 
+      <e><p><l>बच्चा<s n="n"/><s n="m"/></l><r>बच्चा<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>बहिन<s n="n"/><s n="f"/></l><r>बहन<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>बिलार<s n="n"/><s n="f"/></l><r>बिल्ली<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>महतारी<s n="n"/><s n="f"/></l><r>माता<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>रोशनदान<s n="n"/><s n="f"/></l><r>खिड़की<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>जल्दी<s n="n"/><s n="f"/></l><r>जल्दी<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>गिनती<s n="n"/><s n="f"/></l><r>गिनती<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>समापन<s n="n"/><s n="m"/></l><r>समाप्त<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>सवाल<s n="n"/><s n="m"/></l><r>सवाल<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>जवाब<s n="n"/><s n="m"/></l><r>जवाब<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>लोगो<s n="n"/><s n="m"/></l><r>लोगो<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>आवाज<s n="n"/><s n="f"/></l><r>आवाज<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>गाछी<s n="n"/><s n="m"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>नाम<s n="n"/><s n="m"/></l><r>नाम<s n="n"/><s n="m"/></r></p></e> 
+
+      <e><p><l>जेम्स<s n="np"/></l><r>जेम्स<s n="np"/></r></p></e>
+      <e><p><l>मैरी<s n="np"/></l><r>मैरी<s n="np"/></r></p></e>
+
+      <!-- Verbs -->
+
+      <e><p><l>थी<s n="vbser"/></l><r>थी<s n="vbser"/></r></p></e>
+      <e><p><l>खेलल<s n="vblex"/></l><r>खेल<s n="vblex"/></r></p></e> 
+      <e><p><l>सकल<s n="vaux"/></l><r>सक<s n="vaux"/></r></p></e>  
+      <e><p><l>देखल<s n="vblex"/></l><r>देख<s n="vblex"/></r></p></e>      
+      <e><p><l>हँसल<s n="vblex"/></l><r>हँसना<s n="vblex"/></r></p></e>
+      <e><p><l>कहल<s n="vblex"/></l><r>कह<s n="vblex"/></r></p></e>
+      <e><p><l>निकेल<s n="vblex"/></l><r>निकल<s n="vblex"/></r></p></e>
+      <e><p><l>गईल<s n="vblex"/></l><r>जा<s n="vblex"/></r></p></e>  
+      <e><p><l>बानी<s n="vbser"/></l><r>हो<s n="vbser"/></r></p></e>  
+      <e><p><l>हई<s n="vbser"/></l><r>हूँ<s n="vbser"/></r></p></e> 
+      <e><p><l>सुतल<s n="vblex"/></l><r>सो<s n="vblex"/></r></p></e>
+      <e><p><l>खोज<s n="vblex"/></l><r>खोज<s n="vblex"/></r></p></e>
+      <e><p><l>कर<s n="vblex"/></l><r>कर<s n="vblex"/></r></p></e>
+      <e><p><l>लगली<s n="vblex"/></l><r>ले<s n="vblex"/></r></p></e> 
+      <e><p><l>रहल<s n="vaux"/></l><r>रह<s n="vaux"/></r></p></e>
+      <e><p><l>मालूम<s n="vblex"/></l><r>जान<s n="vblex"/></r></p></e>
+      <e><p><l>हँसुआ<s n="vblex"/></l><r>हंस<s n="vblex"/></r></p></e> 
+      <e><p><l>आ<s n="vblex"/></l><r>आ<s n="vblex"/></r></p></e> 
+      <e><p><l>बोल<s n="vblex"/></l><r>बोल<s n="vblex"/></r></p></e>
+      
+      <!--PUNCTUATIONS-->
 
       <e><re>[.\?;:!।॥]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-      <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+      <e><re>,</re>          <p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
       <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
       <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
       <e><p><l>«<s n="lquot"/></l><r>«<s n="lquot"/></r></p></e>
