@@ -83,6 +83,7 @@
       <e><p><l>अउरी<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
       <e><p><l>लेकिन<s n="cnjcoo"/></l><r>मगर<s n="cnjcoo"/></r></p></e>
       <e><p><l>यद्यपि<s n="cnjcoo"/></l><r>हालांकि<s n="cnjcoo"/></r></p></e>
+      <e><p><l>अधिका<s n="cnjcoo"/></l><r>अधिक<s n="cnjcoo"/></r></p></e>
       <e><p><l>तक<s n="cnjadv"/></l><r>तक<s n="cnjadv"/></r></p></e>
       <e><p><l>चाहे<s n="cnjadv"/></l><r>चाहे<s n="cnjadv"/></r></p></e> 
 
@@ -102,7 +103,8 @@
       <e><p><l>के<s n="post"/></l><r>के<s n="post"/></r></p></e>  
       <e><p><l>ने<s n="post"/></l><r>ने<s n="post"/></r></p></e>
       <e><p><l>के<b/>लिए<s n="post"/></l><r>के<b/>लिए<s n="post"/></r></p></e>
-      <e><p><l>के<b/>नीचे<s n="post"/></l><r>के<b/>नीचे<s n="post"/></r></p></e>      
+      <e><p><l>के<b/>नीचे<s n="post"/></l><r>के<b/>नीचे<s n="post"/></r></p></e>   
+      <e><p><l>के<s n="post"/></l><r>को<s n="post"/></r></p></e>   
    
       <!-- Determiners -->
 
@@ -121,6 +123,7 @@
       <e><p><l>उनकरा<s n="det"/></l><r>उनका<s n="det"/></r></p></e>
       <e><p><l>अपना<s n="det"/></l><r>अपना<s n="det"/></r></p></e>
       <e><p><l>जेकर<s n="det"/></l><r>जिसका<s n="det"/></r></p></e>
+      <e><p><l>अधिका<s n="det"/><s n="ind"/></l><r>अधिक<s n="det"/><s n="ind"/></r></p></e>
 
       <!-- Pronouns -->
 
